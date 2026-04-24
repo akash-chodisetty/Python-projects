@@ -1,4 +1,4 @@
-a = int(input("enter a number"))
-b = int(input("enter b number"))
-c = a + b
-print(c)
+a = 10
+b = 20
+c = 30
+print(a+b+c)
